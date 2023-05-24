@@ -1,1 +1,1 @@
-# BookStackApp
+# BookStack Application
